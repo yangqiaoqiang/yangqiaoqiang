@@ -3,6 +3,7 @@
 ![暗色](https://raw.githubusercontent.com/yangqiaoqiang/yangqiaoqiang/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 ![亮色](https://raw.githubusercontent.com/yangqiaoqiang/yangqiaoqiang/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
+![](https://raw.githubusercontent.com/yangqiaoqiang/yangqiaoqiang/main/assets/github-contribution-grid-snake.svg)
 
 [comment]: <> (<div align="center"> <img src="https://metrics.lecoq.io/yangqiaoqiang?template=classic&config.timezone=Asia%2FShanghai"> </div>)
 
