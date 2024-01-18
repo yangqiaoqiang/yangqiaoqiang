@@ -24,4 +24,4 @@
 
 [comment]: <> (<div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=weixin_50915462"> </div>)
 
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=健康与开心!&center=true&size=27"> </a> </h1>
+[comment]: <> (<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=健康与开心!&center=true&size=27"> </a> </h1>)
