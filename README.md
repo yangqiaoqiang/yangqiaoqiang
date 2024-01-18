@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-![暗色](https://raw.githubusercontent.com/yangqiaoqiang/yangqiaoqiang/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
-![亮色](https://raw.githubusercontent.com/yangqiaoqiang/yangqiaoqiang/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+[comment]: <> (![暗色]&#40;https://raw.githubusercontent.com/yangqiaoqiang/yangqiaoqiang/output/github-contribution-grid-snake.svg#gh-dark-mode-only&#41;)
 
-![](https://raw.githubusercontent.com/yangqiaoqiang/yangqiaoqiang/main/assets/github-contribution-grid-snake.svg)
+[comment]: <> (![亮色]&#40;https://raw.githubusercontent.com/yangqiaoqiang/yangqiaoqiang/output/github-contribution-grid-snake.svg#gh-light-mode-only&#41;)
+
+[comment]: <> (![]&#40;https://raw.githubusercontent.com/yangqiaoqiang/yangqiaoqiang/main/assets/github-contribution-grid-snake.svg&#41;)
 
 [comment]: <> (<div align="center"> <img src="https://metrics.lecoq.io/yangqiaoqiang?template=classic&config.timezone=Asia%2FShanghai"> </div>)
 
