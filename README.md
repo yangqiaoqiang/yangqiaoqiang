@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+我是杨秋风，我会在这里分享我的行业生活。
+
 [comment]: <> (![暗色]&#40;https://raw.githubusercontent.com/yangqiaoqiang/yangqiaoqiang/output/github-contribution-grid-snake.svg#gh-dark-mode-only&#41;)
 
 [comment]: <> (![亮色]&#40;https://raw.githubusercontent.com/yangqiaoqiang/yangqiaoqiang/output/github-contribution-grid-snake.svg#gh-light-mode-only&#41;)
