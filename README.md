@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-我是杨秋风，我会在这里分享我的行业技能。
+我是杨秋风，我会在这里分享我的行业技能，希望能成为社区一员、优秀的贡献者。
 
 [comment]: <> (![暗色]&#40;https://raw.githubusercontent.com/yangqiaoqiang/yangqiaoqiang/output/github-contribution-grid-snake.svg#gh-dark-mode-only&#41;)
 
