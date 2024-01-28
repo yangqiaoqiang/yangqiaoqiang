@@ -26,5 +26,4 @@ I am Yang Qiufeng, and I will share my industry skills here, hoping to become a 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=yangqiaoqiang&locale=zh_Hans" alt="GitHub Streak" /></a>
 
 [comment]: <> (<div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=weixin_50915462"> </div>)
-
 [comment]: <> (<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=健康与开心!&center=true&size=27"> </a> </h1>)
